@@ -1,6 +1,5 @@
 # miniRT
-Graphical ray traycer in C.
-This program renders multi-object scenes with colored lights.
+Graphical ray traycer in C that renders multi-object scenes with colored lights.
 
 <img width="999" alt="Screenshot 2021-07-09 at 04 29 15" src="https://user-images.githubusercontent.com/74400013/125009950-3d09aa00-e06e-11eb-9c52-337dfbb307a7.png">
 <img width="999" alt="Screenshot 2021-07-09 at 04 29 58" src="https://user-images.githubusercontent.com/74400013/125009999-56aaf180-e06e-11eb-91cf-3e96c567826e.png">
